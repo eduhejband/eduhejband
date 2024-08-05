@@ -2,7 +2,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=02080B&width=500&height=70&lines=Seja+bem+vindo!;Meu+nome+%C3%A9+Eduardo+Hejazi+Bandeira)](https://git.io/typing-svg)
 
-Desenvolvedor Full Stack focado em soluções eficientes e inovadoras para otimizar processos e melhorar a experiência do usuário. Apaixonado por tecnologia e sempre em busca de novos desafios para aprimorar habilidades e contribuir significativamente para o sucesso da equipe.
+Desenvolvedor Full Stack focado em soluções eficientes e inovadoras para otimizar processos e melhorar a experiência do usuário. Apaixonado por tecnologia e sempre em busca de novos desafios para aprimorar habilidades.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardohejazibandeira/)
 
