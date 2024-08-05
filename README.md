@@ -1,4 +1,4 @@
-![Capa](./github-header-image_.png)
+![Capa](./github-header-image.png)
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=02080B&width=500&height=70&lines=Seja+bem+vindo!;Meu+nome+%C3%A9+Eduardo+Hejazi+Bandeira)](https://git.io/typing-svg)
 
