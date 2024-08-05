@@ -1,11 +1,10 @@
 ![Capa](./github-header-image.png)
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=020608&width=435&lines=Bem+vindo;Sou+Eduardo+Hejazi+Bandeira;Engenheiro+de+Software)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=020608&width=435&lines=Seja+bem+vindo!;Sou+Eduardo+Hejazi+Bandeira;Trabalho+como+desenvolvedor)](https://git.io/typing-svg)
 
 Desenvolvedor Full Stack focado em soluções eficientes e inovadoras para otimizar processos e melhorar a experiência do usuário. Apaixonado por tecnologia e sempre em busca de novos desafios para aprimorar habilidades e contribuir significativamente para o sucesso da equipe.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/eduardohejazibandeira/)
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/eduhejband/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardohejazibandeira/)
 
 ## Linguagens de Programação
 
